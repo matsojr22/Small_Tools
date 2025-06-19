@@ -1,0 +1,4 @@
+put all python commands here on new lines
+ensure all is edit>EOL>UNIX
+chmod +x run_commands.sh
+then ./run_commands.sh
